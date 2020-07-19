@@ -12,7 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
-app/
 build.gradle
 gradle.properties
 gradlew
